@@ -1,12 +1,13 @@
 # FourPay
 
-
-
 <div align="center">
-[![GitHub stars](https://img.shields.io/github/stars/eduardob737/FourPay)](https://github.com/eduardob737/FourPay/stargazers)
+
+[![GitHub stars](https://img.shields.io/github/stars/eduardob737/FourPay)](https://github.com/eduardob737/FourPay/stargazers) <space>
+[![GitHub license](https://img.shields.io/github/license/eduardob737/FourPay)](https://github.com/eduardob737/FourPay/blob/main/LICENSE) <space>
 [![GitHub forks](https://img.shields.io/github/forks/eduardob737/FourPay)](https://github.com/eduardob737/FourPay/network/members)
-[![GitHub license](https://img.shields.io/github/license/eduardob737/FourPay)](https://github.com/eduardob737/FourPay/blob/main/LICENSE)
+
 </div>
+  
 
 ## 📋 Índice
 
