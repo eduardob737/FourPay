@@ -3,16 +3,9 @@
 
 
 <div align="center">
-
-
-
-
 [![GitHub stars](https://img.shields.io/github/stars/eduardob737/FourPay)](https://github.com/eduardob737/FourPay/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/eduardob737/FourPay)](https://github.com/eduardob737/FourPay/network/members)
 [![GitHub license](https://img.shields.io/github/license/eduardob737/FourPay)](https://github.com/eduardob737/FourPay/blob/main/LICENSE)
-
-
-
 </div>
 
 ## 📋 Índice
